@@ -168,6 +168,23 @@
     <ClCompile Include="procesamiento.cpp" />
     <ClCompile Include="TweetDLoader.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <Image Include="background.jpg" />
+    <Image Include="Class_LUCIANO.C\resources\abstract-hud-ui-gui-future-futuristic-screen-system-virtual-design_115579-665.jpg" />
+    <Image Include="Class_LUCIANO.C\resources\background.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Font Include="7SDD.TTF" />
+    <Font Include="arista.ttf" />
+    <Font Include="Class_LUCIANO.C\resources\Blanka-Regular.otf" />
+    <Font Include="Class_LUCIANO.C\resources\Blanka-Regular.ttf" />
+    <Font Include="Class_LUCIANO.C\resources\Marske.otf" />
+    <Font Include="Class_LUCIANO.C\resources\Marske.ttf" />
+    <Font Include="Font\arista.ttf" />
+    <Font Include="Font\Font.ttf" />
+    <Font Include="fuente.ttf" />
+    <Font Include="Genericons-Neue.ttf" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
